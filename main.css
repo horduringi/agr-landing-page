@@ -1,0 +1,67 @@
+.page-header {
+	border-bottom: none;
+	
+}
+@media (min-width: 768px) {
+	h1 {
+		margin-top: 100px;
+		margin-bottom: 50px;
+	}
+	#contactUs {
+	margin-bottom: 100px;
+
+	}
+	#customers {
+		margin-top: 50px;
+		margin-bottom: 80px;
+	}
+}
+
+
+
+.container {
+	max-width: 900px;
+}
+
+.office-list {
+	list-style-type: none;
+	padding-left: 10px;
+}
+.office-list li {
+	padding: 0;
+	line-height: 1.5 !important;
+}
+
+h6 {
+	margin-bottom: 3px;
+}
+
+.well {
+	border: solid 1px #e5e5e5;
+}
+
+.glyphicon {
+	font-size: 2em;
+}
+
+.big-text {
+	font-size: 2em;
+}
+
+.carousel-caption {
+	position: static;
+	text-shadow: none;
+	margin-top: 40px;
+}
+.carousel-caption h4 {
+	margin-top: 40px;
+}
+.carousel-control {
+	background: none !important;
+}
+.carousel-inner {
+	height: 200px;
+}
+.text-italic {
+	font-style: italic;
+}
