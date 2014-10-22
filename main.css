@@ -81,10 +81,16 @@ h6 {
 	padding-top: 20px;
 	
 }
-#contact, #contact h3, #contact h5, #contact h6 {
+#contact, #contact h4, #contact h5, #contact h6 {
 	color: white;
 	background-color: #2196f3;
 }
 #inputName, #inputEmail, #inputRequest {
 	background-color: white;
+}
+#contactHeading i {
+	margin-left: 50px;
+}
+#contactHeading span {
+	margin-left: 27px;
 }
